@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "acpv2",
+  name: "acp",
   version: "1.1.0",
   hasPermssion: 2,
   credits: "rX Abdullah",
