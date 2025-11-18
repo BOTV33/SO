@@ -16,7 +16,7 @@ const rankNames = ["Bronze","Silver","Gold","Platinum","Diamond","Heroic","Grand
 module.exports.run = async function({ api, event, args }) {
 const { threadID } = event;
 const uid = args[0];
-if (!uid) return api.sendMessage("একটি UID দিন! Example: ff 1795909601", threadID);
+if (!uid) return api.sendMessage("একটি free fire UID দিন! Example: ff 1795909601", threadID);
 
 let msg;  
 try {   
