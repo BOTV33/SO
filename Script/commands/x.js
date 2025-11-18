@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "bx",
+	name: "x",
 	version: "1.0.1",
 	hasPermssion: 0,
 	credits: "Islamick Cyber Chat",
